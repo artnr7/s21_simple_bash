@@ -1,0 +1,4 @@
+char int args
+main() char
+i
+b

@@ -1,0 +1,14 @@
+sdfgf
+dfghj
+
+
+if (args->s) {
+        if (symbol == '\n') {
+            (*empty_string_count)++;
+        } else {
+            *empty_string_count = 0;
+        }
+    }
+fdghj fghjkg
+fhdgjhk
+feg

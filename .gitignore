@@ -49,3 +49,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#custom
+s21_cat
+s21_grep
+log.log
